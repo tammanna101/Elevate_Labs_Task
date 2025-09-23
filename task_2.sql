@@ -1,7 +1,5 @@
-create database task2;
-use Task2;
-create database Task1;
-use Task1;
+create database Task;
+use Task;
 
 CREATE TABLE Customers (
     customer_id INT PRIMARY KEY,
