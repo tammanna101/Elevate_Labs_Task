@@ -92,7 +92,7 @@ SELECT product_name, stock
 FROM Products ORDER BY stock DESC;
 
 
--- Here are example SQL operations for the "" table including 
+-- Here are example SQL operations for the "order" table including 
 -- use of SELECT (all and specific columns), WHERE conditions (with AND, OR, LIKE, BETWEEN), and sorting with ORDER BY. --
 
 -- Select all columns -- 
